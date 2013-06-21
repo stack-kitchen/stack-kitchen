@@ -54,3 +54,12 @@
 **** testing
 *** set up nginx in front of rails
 **** unicorn or some such rails server
+
+
+* Specials
+** DNS
+*** how to set up DNS to host your site
+** Heroku
+*** get live quickly
+** EC2
+*** get live more scalably
