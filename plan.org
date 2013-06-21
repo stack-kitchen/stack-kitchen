@@ -1,0 +1,56 @@
+
+* the lean stack
+** what it is
+*** nodejs
+*** npm
+*** mongodb
+*** nginx
+** getting set up
+*** installing node and mongo
+*** set up a database
+*** get node talking to the db
+*** the development loop
+**** make stuff to dump into mongo
+**** change the structure if necessary
+**** the downsides
+*** set up nginx in front of node
+
+* Django/Python
+** what it is
+*** python
+*** Django framework
+*** postgresql database
+*** nginx
+** getting setup
+*** installing python and django
+**** extras like ipython
+*** installing postgresql
+*** the model design loop
+**** make models
+**** create in the database
+**** change the model
+**** drop the database and recreate
+**** fixtures
+**** testing
+*** set up nginx in front of python
+**** using python webservers
+
+* Rails
+** what it is
+*** ruby
+*** rails
+*** postgresql
+**** or mysql
+*** nginx
+** getting setup
+*** install ruby and rails
+**** extras like irb
+*** install postgresql
+*** the dev loop
+**** active record design
+**** create in the db
+**** change the design
+**** drop the database and recreate
+**** testing
+*** set up nginx in front of rails
+**** unicorn or some such rails server
