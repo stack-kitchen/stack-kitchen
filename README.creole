@@ -1,0 +1,7 @@
+= Stack Kitchen =
+
+A new meet up effort by Prashant Gandhi and Nic Ferrier.
+
+The idea is to introduce set ups for getting hacking on projects
+because the hardest part about coding is getting setup on a stack.
+
