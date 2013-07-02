@@ -2,6 +2,22 @@
 
 A new meet up effort by Prashant Gandhi and Nic Ferrier.
 
-The idea is to introduce set ups for getting hacking on projects
-because the hardest part about coding is getting setup on a stack.
+The idea is to help people get started with building systems and
+programming in a very practical way. If you're wanting to learn about
+building computer systems or have not done it for years this is the
+one evening a month you've got to come along and do actually get some
+hands on help.
 
+We're going to have an evening where people come along and setup one
+tech stack a month, say NodeJs/Mongodb on month and then Ruby on Rails
+the next and then Django/Postgresql and then Clojure/Hadoop and
+then... We'll try and cover common tools like editors and DevOps stuff
+every week. It's going to be unashamedly lean driven.
+
+In addition to doing //stacks// we'll do occasional looks at Twitter
+bootstrap for better looking apps and Phonegap for mobile apps and
+other orthogonal tools or librarys.
+
+The point is to get people to the point where they can do something
+real. Programming is easy, you can just read a book for that. Getting
+setup is still hard. Stack Kitchen can help.
