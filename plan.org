@@ -63,3 +63,7 @@
 *** get live quickly
 ** EC2
 *** get live more scalably
+** phonegap
+*** build mobile apps with javascript
+** twitter bootstrap
+*** make webapps with good enough design much easierer
