@@ -1,0 +1,57 @@
+#page {
+    background: url("/assets/kitchen.png") no-repeat;
+    background-attachment: scroll;
+}
+
+
+#content {
+    color: FloralWhite;
+    position: relative;
+    top: 300px;
+    padding: 20px;
+    height: 400px;
+    margin-bottom: 60px;
+}
+
+#page h1 {
+    text-shadow: -2px 0 black, 0 2px black,2px 0 black, 0 -2px black
+}
+
+#page h3 {
+    text-shadow: -2px 0 black, 0 2px black,2px 0 black, 0 -2px black
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.container {
+    border-top: thin solid;
+}
+
+.row-fluid {
+    padding-top: 50px;
+}
+
+.row-fluid p {
+    font-size: 30px;
+    line-height: 50px;
+}
+
+h4 {
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+footer {
+    padding-top: 40px;
+    width: 100%;
+}
+
+footer p {
+    margin: 0 auto;
+}
