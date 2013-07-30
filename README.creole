@@ -9,14 +9,15 @@ one evening a month you've got to come along and do actually get some
 hands on help.
 
 We're going to have an evening where people come along and setup one
-tech stack a month, say NodeJs/Mongodb on month and then Ruby on Rails
+tech stack a month, say NodeJs/Mongodb one month and then Ruby on Rails
 the next and then Django/Postgresql and then Clojure/Hadoop and
 then... We'll try and cover common tools like editors and DevOps stuff
 every week. It's going to be unashamedly lean driven.
 
-In addition to doing //stacks// we'll do occasional looks at Twitter
-bootstrap for better looking apps and Phonegap for mobile apps and
-other orthogonal tools or librarys.
+In addition to doing //stacks// we'll do occasional looks at things
+like Twitter bootstrap for better looking apps and Phonegap for mobile
+apps and other tools or librarys that you could use on any
+stack. We'll also dip into things like DevOps and agile development.
 
 The point is to get people to the point where they can do something
 real. Programming is easy, you can just read a book for that. Getting
